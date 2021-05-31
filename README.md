@@ -1,4 +1,4 @@
-# <center> Welcome to My Profile </center>
+<h1 align="center"> Welcome to My Profile </h1>
 
 ## 🛠️Technologies
 
