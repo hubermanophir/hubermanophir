@@ -1,4 +1,4 @@
-### Welcome to My Profile
+# <center> Welcome to My Profile
 
 ## 🛠️Technologies
 
